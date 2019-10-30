@@ -1,0 +1,12 @@
+pandas==0.25.2
+matplotlib==3.1.1
+shap==0.29.3
+tensorflow==1.14.0
+imbalanced_learn==0.5.0
+numpy==1.17.2
+Adversarial_Robustness_Toolbox==1.0.1
+Keras==2.2.4
+art==4.1
+imblearn==0.0
+scikit_learn==0.21.3
+plotly==4.2.1

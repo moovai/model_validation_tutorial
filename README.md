@@ -3,8 +3,7 @@ Hello fellow data geeks! Thanks for joining me to our session on model validatio
 
 Agenda:
 * We will have a framework review. Here are the slides [(Link)](https://github.com/moovai/model_validation_tutorial/blob/master/ODSC_East_2020_Validation_Monitoring_Training.pdf "(Link)")
-* Then, an interactive tutorial
-* If time, I will demo an internal model validation tool
+* Then, a short technical demo
  
 ***
  
